@@ -1,4 +1,4 @@
 # any_issue
 
-Hi, I'm Malay Bhunia
-A Data Analyst
+Hi there, I'm Malay Bhunia
+Aspiring Data Analyst
